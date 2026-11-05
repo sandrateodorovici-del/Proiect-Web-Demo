@@ -1,6 +1,7 @@
 MAKE-UP
 
-
+![image alt](https://github.com/sandrateodorovici-del/Proiect-Web-Demo/blob/b538d45d926ac15eeea24915241eb3ff26c4b0ed/huda-ship.jpg)
+![image alt](https://github.com/sandrateodorovici-del/Proiect-Web-Demo/blob/c07f471029268176c27c2cc221adb06cd4115452/fentybeauty.jpg)
 
  Despre proiect:
 
